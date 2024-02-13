@@ -1,0 +1,198 @@
+
+body {
+	background-image: url(swirls.jpg);
+	font-family: 'Fira Sans', sans-serif;
+	}
+
+header {
+	margin-top: 0;
+  padding: 3em 1em 2em 1em;
+  text-align: center;
+  background-color: rgba(255, 255, 255, .75);
+}
+
+h1{
+	color: #9933ff;
+	text-align: center;
+	font-family: 'Rubik Mono One', monospace;	
+	text-transform: uppercase;
+	font-size: 3em;
+	letter-spacing: 2px;
+}
+
+h2{
+	color: #bf80ff;
+	text-align: center;
+	font-size: 2em;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+
+
+}
+
+p{
+	color: #9933ff;
+	text-align: center;
+	font-size: 1em;
+}
+
+ul {
+	list-style-image: url("star.png");
+	list-style-position: inside;
+	text-align: left;
+}
+
+div.icecream {
+	text-align: center;
+		color: #9933ff;
+		font-size: 1em;
+
+}
+
+ul.myUL {
+	display: inline-block;
+	text-align: left;
+			font-size: 1em;
+
+}
+
+div.sorority {
+	text-align: center;
+		color: #9933ff;
+		font-size: 1em;
+}
+
+ul.info {
+	display: inline-block;
+	text-align: left;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
+
+div.smad201 {
+		text-align: center;
+			color: #9933ff;
+			font-size: 1em;
+
+
+}
+
+ul.myUL2{
+	display: inline-block;
+	text-align: left;
+			font-size: 1em;
+
+}
+
+
+div.smad202 {
+	text-align: center;
+		color: #9933ff;
+		font-size: 1em;
+}
+
+ul.myUL3{
+	display: inline-block;
+	text-align: left;
+			font-size: 1em;
+
+}
+
+div.smad203{
+	text-align: center;
+	color: #9933ff;
+	font-size: 1em;
+}
+
+ul.myUL4 {
+	display: inline-block;
+	text-align: left;
+			font-size: 1em;
+
+}
+
+div.smad307 {
+	text-align: center;
+	color: #9933ff;
+		font-size: 1em;
+
+}
+
+ul.myUL5 {
+	display: inline-block;
+	text-align: left;
+			font-size: 1em;
+
+}
+
+div.sigma {
+	text-align: center;
+		color: #9933ff;
+		font-size: 1em;
+
+}
+
+div.effees {
+	text-align: center;
+		color: #9933ff;
+}
+
+a:link, a:visited {
+	color: #bf80ff;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: white;
+}
+
+a:active{
+	color: #bf80ff;
+	text-decoration: none;
+}
+
+
+#school h2 {
+	color: #bf80ff;
+	background-color: white;
+}
+
+#activities h2 {
+	color: #bf80ff;
+	background-color: white;
+}
+
+#work h2 {
+	color: #bf80ff;
+	background-color: white;
+}
+
+#education h2 {
+	color: #bf80ff;
+	background-color: white;
+}
+
+#education {
+	background-color: #e4e1da;
+}
+
+#work {
+	background-color: #e4e1da;
+}
+
+#activities {
+	background-color: #e4e1da;
+}
+
+#school {
+	background-color: #e4e1da;
+}
+
+
+
